@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://rowfree-a1a58c3f.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

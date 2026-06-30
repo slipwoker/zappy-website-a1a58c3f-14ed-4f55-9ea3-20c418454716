@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://rowfree-a1a58c3f.zappy5.app
+https://example.com
 גלו את עולם ספורט המים עם rowfree: שיעורי חתירה מקצועיים, מועדון קיאקים תוסס וחנות ציוד אונליין. הצטרפו עוד היום והתחילו לחתור אל האופק!
 
 ### שיעורים
-https://rowfree-a1a58c3f.zappy5.app/lessons
+https://example.com/lessons
 הפכו את הפנטזיה למציאות עם שיעורי חתירה בקיאק למתחילים ומתקדמים. מדריכים מנוסים, ציוד מתקדם ולוקיישנים עוצרי נשימה. הזמינו מקום עוד היום!
 
 ### מועדון
-https://rowfree-a1a58c3f.zappy5.app/club
+https://example.com/club
 הצטרפו למועדון חובבי הקיאקים התוסס של rowfree! מסעות קבוצתיים, אירועי קהילה והטבות בלעדיות לחברים. זה הזמן להפוך את התחביב לאורח חיים.
 
 ### אודות
-https://rowfree-a1a58c3f.zappy5.app/about
+https://example.com/about
 rowfree נולדה מאהבה למים ולאדם. גלו את הסיפור, החזון והצוות שמאחורי שיעורי הקיאק, המועדון וחנות הציוד. בואו להיות חלק מהמסע הישראלי שלנו.
 
 ### צור קשר
-https://rowfree-a1a58c3f.zappy5.app/contact
+https://example.com/contact
 יש שאלה על ציוד קיאק לרכישה אונליין, קורס קיאק בישראל או הצטרפות למועדון? אנחנו כאן! מלאו את הפרטים ונתחיל לתכנן את ההרפתקה הבאה שלכם ביחד.
 
 ### Products
-https://rowfree-a1a58c3f.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - rowfree
 
 ### Cart
-https://rowfree-a1a58c3f.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://rowfree-a1a58c3f.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://rowfree-a1a58c3f.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://rowfree-a1a58c3f.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://rowfree-a1a58c3f.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://rowfree-a1a58c3f.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - rowfree
 
 ### Category
-https://rowfree-a1a58c3f.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - rowfree
 
 ### תודה - rowfree
-https://rowfree-a1a58c3f.zappy5.app/thank-you
+https://example.com/thank-you
 rowfree - תודה - rowfree
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://rowfree-a1a58c3f.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://rowfree-a1a58c3f.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://rowfree-a1a58c3f.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ Water Sports & Outdoor Recreation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://rowfree-a1a58c3f.zappy5.app/sitemap.xml
-- Robots: https://rowfree-a1a58c3f.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://rowfree-a1a58c3f.zappy5.app/llms-full.txt
-- Products (JSON): https://rowfree-a1a58c3f.zappy5.app/products.json
-- Products (Google Merchant RSS): https://rowfree-a1a58c3f.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
